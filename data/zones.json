@@ -1,0 +1,901 @@
+[
+ {
+  "cells": 275,
+  "area_ha": 68.2,
+  "peak": [
+   36.27525,
+   73.80625
+  ],
+  "centroid": [
+   36.27496,
+   73.80687
+  ],
+  "peak_score": 4.18,
+  "mean_score": 2.95,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2232,
+   3487
+  ],
+  "mean_slope": 35.5,
+  "dist_published_km": 4.75,
+  "bbox": [
+   73.79625,
+   36.27225,
+   73.81825,
+   36.27875
+  ],
+  "id": "HZ1",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 113,
+  "area_ha": 28.0,
+  "peak": [
+   36.30525,
+   73.77825
+  ],
+  "centroid": [
+   36.30665,
+   73.7766
+  ],
+  "peak_score": 4.06,
+  "mean_score": 2.83,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2684,
+   3097
+  ],
+  "mean_slope": 36.4,
+  "dist_published_km": 5.3,
+  "bbox": [
+   73.77175,
+   36.30325,
+   73.78225,
+   36.31075
+  ],
+  "id": "HZ2",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 68,
+  "area_ha": 16.9,
+  "peak": [
+   36.30175,
+   73.79175
+  ],
+  "centroid": [
+   36.30345,
+   73.7923
+  ],
+  "peak_score": 4.33,
+  "mean_score": 2.3,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2019,
+   2547
+  ],
+  "mean_slope": 36.0,
+  "dist_published_km": 5.54,
+  "bbox": [
+   73.78925,
+   36.30075,
+   73.79575,
+   36.30625
+  ],
+  "id": "HZ3",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 63,
+  "area_ha": 15.6,
+  "peak": [
+   36.30225,
+   73.80475
+  ],
+  "centroid": [
+   36.30326,
+   73.80442
+  ],
+  "peak_score": 2.36,
+  "mean_score": 1.95,
+  "dates_at_peak": 3,
+  "elev_range": [
+   1984,
+   2111
+  ],
+  "mean_slope": 9.6,
+  "dist_published_km": 6.32,
+  "bbox": [
+   73.80075,
+   36.30175,
+   73.80875,
+   36.30575
+  ],
+  "id": "HZ4",
+  "class": "B transported / valley-floor material"
+ },
+ {
+  "cells": 56,
+  "area_ha": 13.9,
+  "peak": [
+   36.31225,
+   73.75975
+  ],
+  "centroid": [
+   36.31138,
+   73.76021
+  ],
+  "peak_score": 3.92,
+  "mean_score": 2.72,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2612,
+   2905
+  ],
+  "mean_slope": 36.0,
+  "dist_published_km": 5.71,
+  "bbox": [
+   73.75825,
+   36.30875,
+   73.76225,
+   36.31375
+  ],
+  "id": "HZ5",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 43,
+  "area_ha": 10.7,
+  "peak": [
+   36.29775,
+   73.77325
+  ],
+  "centroid": [
+   36.29692,
+   73.77438
+  ],
+  "peak_score": 3.45,
+  "mean_score": 2.58,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2157,
+   2435
+  ],
+  "mean_slope": 33.4,
+  "dist_published_km": 4.36,
+  "bbox": [
+   73.77225,
+   36.29575,
+   73.77675,
+   36.29825
+  ],
+  "id": "HZ6",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 38,
+  "area_ha": 9.4,
+  "peak": [
+   36.25775,
+   73.83425
+  ],
+  "centroid": [
+   36.2588,
+   73.83371
+  ],
+  "peak_score": 3.38,
+  "mean_score": 2.65,
+  "dates_at_peak": 3,
+  "elev_range": [
+   3466,
+   3652
+  ],
+  "mean_slope": 34.9,
+  "dist_published_km": 7.0,
+  "bbox": [
+   73.83175,
+   36.25725,
+   73.83575,
+   36.26025
+  ],
+  "id": "HZ7",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 28,
+  "area_ha": 6.9,
+  "peak": [
+   36.27025,
+   73.79975
+  ],
+  "centroid": [
+   36.27046,
+   73.79998
+  ],
+  "peak_score": 4.29,
+  "mean_score": 3.1,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2320,
+   2478
+  ],
+  "mean_slope": 28.8,
+  "dist_published_km": 4.03,
+  "bbox": [
+   73.79775,
+   36.26925,
+   73.80225,
+   36.27175
+  ],
+  "id": "HZ8",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 27,
+  "area_ha": 6.7,
+  "peak": [
+   36.31575,
+   73.76375
+  ],
+  "centroid": [
+   36.31542,
+   73.76458
+  ],
+  "peak_score": 3.19,
+  "mean_score": 2.55,
+  "dates_at_peak": 3,
+  "elev_range": [
+   3111,
+   3278
+  ],
+  "mean_slope": 35.3,
+  "dist_published_km": 6.13,
+  "bbox": [
+   73.76325,
+   36.31425,
+   73.76625,
+   36.31675
+  ],
+  "id": "HZ9",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 20,
+  "area_ha": 5.0,
+  "peak": [
+   36.30375,
+   73.78625
+  ],
+  "centroid": [
+   36.30358,
+   73.78668
+  ],
+  "peak_score": 3.35,
+  "mean_score": 2.57,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2518,
+   2727
+  ],
+  "mean_slope": 35.4,
+  "dist_published_km": 5.46,
+  "bbox": [
+   73.78525,
+   36.30275,
+   73.78825,
+   36.30425
+  ],
+  "id": "HZ10",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 12,
+  "area_ha": 3.0,
+  "peak": [
+   36.26125,
+   73.77325
+  ],
+  "centroid": [
+   36.26079,
+   73.77379
+  ],
+  "peak_score": 2.63,
+  "mean_score": 2.41,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2154,
+   2293
+  ],
+  "mean_slope": 31.1,
+  "dist_published_km": 1.51,
+  "bbox": [
+   73.77275,
+   36.26025,
+   73.77475,
+   36.26125
+  ],
+  "id": "HZ11",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 12,
+  "area_ha": 3.0,
+  "peak": [
+   36.26525,
+   73.77375
+  ],
+  "centroid": [
+   36.26533,
+   73.77433
+  ],
+  "peak_score": 2.25,
+  "mean_score": 2.0,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2108,
+   2235
+  ],
+  "mean_slope": 28.2,
+  "dist_published_km": 1.63,
+  "bbox": [
+   73.77375,
+   36.26475,
+   73.77525,
+   36.26625
+  ],
+  "id": "HZ12",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 9,
+  "area_ha": 2.2,
+  "peak": [
+   36.25875,
+   73.78275
+  ],
+  "centroid": [
+   36.25842,
+   73.78197
+  ],
+  "peak_score": 3.67,
+  "mean_score": 3.49,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2845,
+   2959
+  ],
+  "mean_slope": 32.8,
+  "dist_published_km": 2.38,
+  "bbox": [
+   73.78125,
+   36.25775,
+   73.78275,
+   36.25875
+  ],
+  "id": "HZ13",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 9,
+  "area_ha": 2.2,
+  "peak": [
+   36.31725,
+   73.76225
+  ],
+  "centroid": [
+   36.31658,
+   73.76203
+  ],
+  "peak_score": 2.86,
+  "mean_score": 2.63,
+  "dates_at_peak": 3,
+  "elev_range": [
+   3066,
+   3179
+  ],
+  "mean_slope": 32.0,
+  "dist_published_km": 6.28,
+  "bbox": [
+   73.76125,
+   36.31625,
+   73.76275,
+   36.31725
+  ],
+  "id": "HZ14",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 7,
+  "area_ha": 1.7,
+  "peak": [
+   36.30425,
+   73.77175
+  ],
+  "centroid": [
+   36.30475,
+   73.77175
+  ],
+  "peak_score": 2.1,
+  "mean_score": 1.92,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2567,
+   2659
+  ],
+  "mean_slope": 36.5,
+  "dist_published_km": 5.01,
+  "bbox": [
+   73.77125,
+   36.30425,
+   73.77225,
+   36.30525
+  ],
+  "id": "HZ15",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.26025,
+   73.83025
+  ],
+  "centroid": [
+   36.26025,
+   73.8305
+  ],
+  "peak_score": 3.09,
+  "mean_score": 2.68,
+  "dates_at_peak": 2,
+  "elev_range": [
+   3527,
+   3641
+  ],
+  "mean_slope": 38.5,
+  "dist_published_km": 6.63,
+  "bbox": [
+   73.83025,
+   36.25975,
+   73.83075,
+   36.26075
+  ],
+  "id": "HZ16",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.31925,
+   73.75475
+  ],
+  "centroid": [
+   36.319,
+   73.75525
+  ],
+  "peak_score": 1.91,
+  "mean_score": 1.83,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2911,
+   3002
+  ],
+  "mean_slope": 39.9,
+  "dist_published_km": 6.48,
+  "bbox": [
+   73.75475,
+   36.31875,
+   73.75575,
+   36.31925
+  ],
+  "id": "HZ17",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.31025,
+   73.78625
+  ],
+  "centroid": [
+   36.31,
+   73.78675
+  ],
+  "peak_score": 1.78,
+  "mean_score": 1.78,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2883,
+   2956
+  ],
+  "mean_slope": 36.6,
+  "dist_published_km": 6.1,
+  "bbox": [
+   73.78625,
+   36.30975,
+   73.78725,
+   36.31025
+  ],
+  "id": "HZ18",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.31425,
+   73.76725
+  ],
+  "centroid": [
+   36.3145,
+   73.76775
+  ],
+  "peak_score": 2.91,
+  "mean_score": 2.59,
+  "dates_at_peak": 3,
+  "elev_range": [
+   3114,
+   3216
+  ],
+  "mean_slope": 38.3,
+  "dist_published_km": 6.0,
+  "bbox": [
+   73.76725,
+   36.31425,
+   73.76825,
+   36.31475
+  ],
+  "id": "HZ19",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.31225,
+   73.77075
+  ],
+  "centroid": [
+   36.31242,
+   73.76983
+  ],
+  "peak_score": 2.74,
+  "mean_score": 2.42,
+  "dates_at_peak": 3,
+  "elev_range": [
+   3117,
+   3153
+  ],
+  "mean_slope": 29.1,
+  "dist_published_km": 5.84,
+  "bbox": [
+   73.76925,
+   36.31225,
+   73.77075,
+   36.31275
+  ],
+  "id": "HZ20",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.31125,
+   73.77375
+  ],
+  "centroid": [
+   36.31175,
+   73.774
+  ],
+  "peak_score": 2.24,
+  "mean_score": 1.99,
+  "dates_at_peak": 2,
+  "elev_range": [
+   3169,
+   3205
+  ],
+  "mean_slope": 28.0,
+  "dist_published_km": 5.8,
+  "bbox": [
+   73.77375,
+   36.31125,
+   73.77425,
+   36.31225
+  ],
+  "id": "HZ21",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 6,
+  "area_ha": 1.5,
+  "peak": [
+   36.30025,
+   73.81725
+  ],
+  "centroid": [
+   36.30025,
+   73.8175
+  ],
+  "peak_score": 2.24,
+  "mean_score": 2.05,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2248,
+   2363
+  ],
+  "mean_slope": 33.7,
+  "dist_published_km": 7.0,
+  "bbox": [
+   73.81725,
+   36.29975,
+   73.81775,
+   36.30075
+  ],
+  "id": "HZ22",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.30725,
+   73.76775
+  ],
+  "centroid": [
+   36.3075,
+   73.768
+  ],
+  "peak_score": 2.23,
+  "mean_score": 2.0,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2732,
+   2779
+  ],
+  "mean_slope": 38.7,
+  "dist_published_km": 5.25,
+  "bbox": [
+   73.76775,
+   36.30725,
+   73.76825,
+   36.30775
+  ],
+  "id": "HZ23",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.29725,
+   73.77125
+  ],
+  "centroid": [
+   36.297,
+   73.771
+  ],
+  "peak_score": 2.35,
+  "mean_score": 2.3,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2184,
+   2233
+  ],
+  "mean_slope": 29.3,
+  "dist_published_km": 4.25,
+  "bbox": [
+   73.77075,
+   36.29675,
+   73.77125,
+   36.29725
+  ],
+  "id": "HZ24",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.30375,
+   73.77675
+  ],
+  "centroid": [
+   36.30313,
+   73.77663
+  ],
+  "peak_score": 2.69,
+  "mean_score": 2.3,
+  "dates_at_peak": 3,
+  "elev_range": [
+   2551,
+   2630
+  ],
+  "mean_slope": 35.6,
+  "dist_published_km": 5.1,
+  "bbox": [
+   73.77625,
+   36.30275,
+   73.77675,
+   36.30375
+  ],
+  "id": "HZ25",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.31125,
+   73.78025
+  ],
+  "centroid": [
+   36.311,
+   73.7805
+  ],
+  "peak_score": 1.99,
+  "mean_score": 1.87,
+  "dates_at_peak": 2,
+  "elev_range": [
+   3225,
+   3273
+  ],
+  "mean_slope": 33.3,
+  "dist_published_km": 5.99,
+  "bbox": [
+   73.78025,
+   36.31075,
+   73.78075,
+   36.31125
+  ],
+  "id": "HZ26",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.30025,
+   73.83325
+  ],
+  "centroid": [
+   36.3,
+   73.8335
+  ],
+  "peak_score": 1.51,
+  "mean_score": 1.45,
+  "dates_at_peak": 2,
+  "elev_range": [
+   3039,
+   3113
+  ],
+  "mean_slope": 37.8,
+  "dist_published_km": 8.17,
+  "bbox": [
+   73.83325,
+   36.29975,
+   73.83375,
+   36.30025
+  ],
+  "id": "HZ27",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.30075,
+   73.82025
+  ],
+  "centroid": [
+   36.3005,
+   73.82
+  ],
+  "peak_score": 2.18,
+  "mean_score": 1.97,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2312,
+   2371
+  ],
+  "mean_slope": 29.5,
+  "dist_published_km": 7.24,
+  "bbox": [
+   73.81975,
+   36.30025,
+   73.82025,
+   36.30075
+  ],
+  "id": "HZ28",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.25975,
+   73.77975
+  ],
+  "centroid": [
+   36.2595,
+   73.7795
+  ],
+  "peak_score": 2.48,
+  "mean_score": 2.2,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2674,
+   2731
+  ],
+  "mean_slope": 40.4,
+  "dist_published_km": 2.1,
+  "bbox": [
+   73.77925,
+   36.25925,
+   73.77975,
+   36.25975
+  ],
+  "id": "HZ29",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.31825,
+   73.76775
+  ],
+  "centroid": [
+   36.318,
+   73.768
+  ],
+  "peak_score": 1.86,
+  "mean_score": 1.79,
+  "dates_at_peak": 2,
+  "elev_range": [
+   3366,
+   3430
+  ],
+  "mean_slope": 37.5,
+  "dist_published_km": 6.45,
+  "bbox": [
+   73.76775,
+   36.31775,
+   73.76825,
+   36.31825
+  ],
+  "id": "HZ30",
+  "class": "A in-situ alteration on bedrock or scree"
+ },
+ {
+  "cells": 4,
+  "area_ha": 1.0,
+  "peak": [
+   36.29875,
+   73.77225
+  ],
+  "centroid": [
+   36.299,
+   73.772
+  ],
+  "peak_score": 2.4,
+  "mean_score": 2.21,
+  "dates_at_peak": 2,
+  "elev_range": [
+   2299,
+   2336
+  ],
+  "mean_slope": 23.8,
+  "dist_published_km": 4.44,
+  "bbox": [
+   73.77175,
+   36.29875,
+   73.77225,
+   36.29925
+  ],
+  "id": "HZ31",
+  "class": "A in-situ alteration on bedrock or scree"
+ }
+]

@@ -1,0 +1,40 @@
+{
+ "HZ1 cluster": {
+  "Fe3_900": 1.28,
+  "AlOH_2200": 1.0,
+  "Jar_2265": 1.86,
+  "MgOH_2330": 0.08,
+  "valid": 0.96,
+  "triple_anomaly_pct": 14.22
+ },
+ "Control SW": {
+  "Fe3_900": -0.15,
+  "AlOH_2200": 0.38,
+  "Jar_2265": -0.56,
+  "MgOH_2330": -0.85,
+  "valid": 0.81,
+  "triple_anomaly_pct": 0.02
+ },
+ "East bank (secondary)": {
+  "Fe3_900": 0.2,
+  "AlOH_2200": 0.36,
+  "Jar_2265": 1.0,
+  "MgOH_2330": 0.44,
+  "valid": 0.76,
+  "triple_anomaly_pct": 3.71
+ },
+ "HZ1 cluster EMIT-MIN 2026": {
+  "px": 1650,
+  "sulphate_pct": 0.0,
+  "ferric_pct": 14.1,
+  "whitemica_pct": 0.0,
+  "cu_pct": 0.0
+ },
+ "Control SW EMIT-MIN 2026": {
+  "px": 4015,
+  "sulphate_pct": 0.0,
+  "ferric_pct": 4.1,
+  "whitemica_pct": 0.0,
+  "cu_pct": 0.2
+ }
+}
